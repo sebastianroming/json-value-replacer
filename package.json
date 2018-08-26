@@ -1,0 +1,28 @@
+{
+  "name": "json-value-replacer",
+  "version": "0.0.1",
+  "description": "replaces all values in a JSON object, no matter how deep.",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianroming/json-value-replacer.git"
+  },
+  "keywords": [
+    "json",
+    "replace",
+    "values"
+  ],
+  "author": {
+    "name": "Sebastian Roming",
+    "email": "sebastian@webmonkey.io",
+    "url": "https://webmonkey.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastianroming/json-value-replacer/issues"
+  },
+  "homepage": "https://github.com/sebastianroming/json-value-replacer#readme"
+}
