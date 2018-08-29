@@ -20,6 +20,13 @@
     "email": "sebastian@webmonkey.io",
     "url": "https://webmonkey.io"
   },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "space": true
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sebastianroming/json-value-replacer/issues"
