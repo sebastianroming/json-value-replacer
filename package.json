@@ -21,7 +21,7 @@
     "url": "https://webmonkey.io"
   },
   "devDependencies": {
-    "ava": "*",
+    "ava": "^0.25.0",
     "xo": "*"
   },
   "xo": {
