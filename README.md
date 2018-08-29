@@ -1,4 +1,4 @@
-# json-value-replacer
+# json-value-replacer  [![Build Status](https://travis-ci.org/sebastianroming/json-value-replacer.svg?branch=master)](https://travis-ci.org/sebastianroming/json-value-replacer)
 
 > replaces all values in a JSON object, no matter how deep.
 
