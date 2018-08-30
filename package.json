@@ -1,6 +1,6 @@
 {
   "name": "json-value-replacer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "replaces all values in a JSON object, no matter how deep.",
   "main": "index.js",
   "scripts": {

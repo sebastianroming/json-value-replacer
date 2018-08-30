@@ -16,6 +16,12 @@ const obj = { 'a': 'value a', 'b': 'value b', 'c': { 'd': 'value c', 'e': { 'f':
 
 console.log(jsonValueReplacer(obj, "#####"));
 // -> { a: '#####', b: '#####', c: { d: '#####', e: { f: '#####' } } }
+
+console.log(jsonValueReplacer.shuffle(obj));
+// -> { a: ' luaave', b: 'bulave ', c: { d: 'c eulav', e: { f: 'flaev u' } } }
+
+console.log(jsonValueReplacer.sameLength(obj, '#'));
+// -> { a: '#######', b: '#######', c: { d: '#######', e: { f: '#######' } } }
 ```
 
 ## License
